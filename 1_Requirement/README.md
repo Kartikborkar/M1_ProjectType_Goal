@@ -11,6 +11,6 @@ Delete contacts: deletes contacts from file
 
 4W 1H
 what = contact Management System
-Where= In cell phones
+Where= In an organizatin and office.
 When= Need for saved contact by name, phone number, adress & mail.
 How = File handling has been used to record all data.
