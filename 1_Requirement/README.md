@@ -2,7 +2,7 @@
 #INTRODUCTION:  Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
 
 #RESEARCH
-#identtify feactures: 
+identtify feactures: 
 Add new contacts: with information such as name, phone number, address, and email
 List all contacts: lists all the contacts stored in file with their respective contact details
 Search contacts: based on name and phone number
