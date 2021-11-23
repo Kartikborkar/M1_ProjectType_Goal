@@ -29,4 +29,15 @@ Threat: slower growth in an innvoation threat for the company in the dynamic wor
 # Detail Requirements:
 High Level Requirements:
 
+# High Level Requirement  
+system needs a security system to prevent data  
+sysytem needs to have search area.  
+system needs to maintain the quantity record.  
+system need to update and detect the record.  
+
+# low level Requirement  
+system need to store information with new entry and contact.  
+system need to help the internal staff to keep information of credential and find the as er various queries.  
+system needs to keep the record of telephone.
+
 
