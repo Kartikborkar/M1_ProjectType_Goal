@@ -9,7 +9,8 @@ Search contacts: based on name and phone number
 Edit contacts: edit information given while adding the contacts – name, phone number, address, and email
 Delete contacts: deletes contacts from file
 
-4W 1H:
+#4W 1H:
+
 what = contact Management System
 
 Where= In an organizatin and office.
@@ -26,3 +27,8 @@ Weakness: Update the software according to the need and increase data structure 
 Opportunities: Tech based market attract the youth.
 
 Threat: slower growth in an innvoation threat for the company in the dynamic world.
+
+#Detail Requirements:
+#High Level Requirements:
+
+
