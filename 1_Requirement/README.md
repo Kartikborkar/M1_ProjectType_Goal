@@ -29,6 +29,6 @@ Opportunities: Tech based market attract the youth.
 Threat: slower growth in an innvoation threat for the company in the dynamic world.
 
 # Detail Requirements:
-#High Level Requirements:
+High Level Requirements:
 
 
